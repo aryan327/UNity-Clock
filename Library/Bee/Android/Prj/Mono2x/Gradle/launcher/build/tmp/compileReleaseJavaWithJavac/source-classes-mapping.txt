@@ -1,0 +1,2 @@
+com/DefaultCompany/Clock/BuildConfig.java
+ com.DefaultCompany.Clock.BuildConfig
